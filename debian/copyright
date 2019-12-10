@@ -1,0 +1,8 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: mousewheel
+Upstream-Contact: Gökhan Gökkaya <wirelessanten@gmail.com>
+
+
+Files: *
+Copyright: nicknorton
+License: Look this => http://www.nicknorton.net/?q=node/10

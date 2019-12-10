@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mouseheel.sh\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2019-12-10 18:27+0300\n"
+"Last-Translator: Gökhan Gökkaya <gokhanlnx@gmail.com>\n"
+"Language-Team: Turkish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"POT-Creation-Date: \n"
+
+msgid "Apply"
+msgstr "Uygula"
+
+msgid "Mouse wheel speed"
+msgstr "Fare tekerlek hızı"
+
+msgid "Mouse wheel speed:"
+msgstr "Fare tekerlek hızı:"

@@ -1,0 +1,12 @@
+Source: mousewheel
+Section: misc
+Priority: optional
+Maintainer: Gökhan Gökkaya <wirelessaten@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: mousewheel
+Architecture: all
+Depends: imwheel, yad
+Source: mousewheel
+Description: Sets mouse whell speed

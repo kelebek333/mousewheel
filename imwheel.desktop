@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Exec=imwheel
+Name=imwheel
+Comment=imwheel autostart
+Comment[tr]=imwheel oto-başlat
+Type=Application
+StartupNotify=false

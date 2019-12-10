@@ -1,0 +1,26 @@
+mousewheel (1.0.3~bionic) bionic; urgency=medium
+
+  * Add makefile for locale file
+
+ -- Gökhan Gökkaya <wirelessanten@gmail.com>  Tue, 10 Dec 2019 20:46:53 +0300
+
+mousewheel (1.0.2~bionic) bionic; urgency=medium
+
+  * Fix .desktop file
+
+ -- Gökhan Gökkaya <wirelessanten@gmail.com>  Tue, 10 Dec 2019 19:09:40 +0300
+
+mousewheel (1.0.1~bionic) bionic; urgency=medium
+
+  * Add pot file for translations
+
+ -- Gökhan Gökkaya <wirelessanten@gmail.com>  Tue, 10 Dec 2019 19:09:40 +0300
+
+mousewheel (1.0.0~bionic) bionic; urgency=medium
+
+  * Initial version
+  * Switch from zenity to yad
+  * Disable cancel button and window decorations
+
+ -- Gökhan Gökkaya <wirelessanten@gmail.com>  Thu, 05 Dec 2019 02:06:04 +0300
+

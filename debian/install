@@ -1,0 +1,4 @@
+mousewheel.sh      /opt/mousewheel
+mousewheel.desktop /usr/share/applications
+imwheel.desktop    /etc/xdg/etc/xdg/auto
+/usr/share/locale

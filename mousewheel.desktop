@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=Mouse Wheel
+Name[tr]=Fare Tekerleği
+Exec=/opt/mousewheel/mousewheel.sh
+Icon=mouse
+Comment=Set mouse whell speed
+Comment[tr]=Fare tekerlek hızını ayarla
+Categories=Settings;
