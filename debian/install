@@ -1,4 +1,4 @@
 mousewheel.sh      /opt/mousewheel
 mousewheel.desktop /usr/share/applications
-imwheel.desktop    /etc/xdg/etc/xdg/auto
+imwheel.desktop    /etc/xdg/autostart
 /usr/share/locale
